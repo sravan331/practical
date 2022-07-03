@@ -1,3 +1,6 @@
+// author sravan
+// program on switch case
+
 package basics;
 import java.util.Scanner;
 public class Switchcase {
@@ -11,17 +14,17 @@ public class Switchcase {
 		switch(r) {
 		case 1: 
 		if(name[0] == "sravan") {
-			System.out.println("switch case is very easyfor sayan");
+			System.out.println("switch case is very easyfor sravan");
 		}
 			
 		break;
 		case 2: if(name[1]=="sravan") {
-			System.out.println("switch case is very easyfor sayan");
+			System.out.println("switch case is very easyfor sravan");
 			
 		}
 		break;
 		case 3: if(name[2]=="sravan") {
-			System.out.println("switch case is very easyfor sayan");
+			System.out.println("switch case is very easyfor sravan");
 		}
 		break;
 		default: 
